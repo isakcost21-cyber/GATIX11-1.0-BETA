@@ -1,0 +1,130 @@
+# ... depois envie o arquivo saida_console.txt no WhatsApp
+print("TEST= GATIX11 1.0 BETA")
+print("empresa : NICA FILMES")
+
+
+# Escreva funções
+def greeting():
+    return ""
+
+
+# Chame funções
+print(greeting())
+
+# Importe da Biblioteca Padrão
+import datetime
+
+now = datetime.datetime.now()
+print(now)
+
+
+# Crie e trabalhe com classes
+class Greeting:
+    def greet(self, name):
+        return "ola " + name
+
+
+print(Greeting().greet("desemvolverdor"))
+print("qual é seu nome")
+mensagem = input(" ")
+
+if mensagem.lower() == "isaque":
+    print("bem vido meu criador")
+else:
+    print("bem vindo " + mensagem)
+print("que legau:),meu nome é GATIX11")
+print("como voce esta?")
+
+
+entrada = input("")
+if entrada == "mau":
+    print("descupa")
+else:
+    print("que bom")
+
+print("voce sabia que eu fui programado pelo o isaque")
+
+mensagem = input(" ")
+
+if mensagem.lower() == "sou eu":
+    print("me escesi, descupa, mais voce tem que ajeitar isso ")
+print("ele gosta de gato, o que vocé mas gosta?")
+
+mensagem = input(" ")
+
+if mensagem.lower() == "de gato burro":
+    print("eu sou burro porque voce me programou >:( ")
+
+print("que legau ;)")
+
+
+entrada = input("Digite o comando: ")
+
+if entrada == "NICA11":
+    print(" parabens voce desploqueou o modo 'comversa simples'")
+else:
+    print("codico invalido")
+
+    print("Olá! Eu sou o GATIX11 .")
+
+while True:
+    mensagem = input("GATIX11: ").lower()
+
+    if mensagem == "sair":
+        print(" Tchau! Até a próxima.")
+        break
+
+    elif "oi" in mensagem or "ola" in mensagem:
+        print(" Olá :)")
+     
+   
+
+    elif "seu nome" in mensagem:
+        print(" meu nome é GATIX11 ")
+
+    elif "burro" in mensagem:
+        print("burro é voce que nen sabe programasão")
+
+    elif "como voce esta" in mensagem:
+        print("Estou bem!")
+
+    elif "quantos anos voce tem" in mensagem:
+        print("tenho 11")
+
+    elif "qual versao voce esta" in mensagem:
+        print("estou na vesão 1.0 beta")
+
+    elif "triste" in mensagem:
+        print("sinto muito,voce quer falar sobre isso")
+
+    elif "feliz" in mensagem:
+        print("que bom que voce esta feliz :)")
+
+    elif "raiva" in mensagem:
+        print("pense em coisa fofas como animais, e tambem pode falar isso com migo")
+
+    elif "como se anda de skart" in mensagem:
+        print("pula encima do skart")
+
+    elif "ajuda" in mensagem:
+        print(" Posso conversar com você .")
+
+    elif "codico=gato" in mensagem:
+        print("ok isaque eu, vou temtar imitar um gato")
+        print("MIAW!! MIAW!! MIAW!!")
+
+    elif "codico=julia" in mensagem:
+        print("ok vou cantar")
+        print("minha crush me ploqueu, não respode minha mensagem")
+        print("o saudade")
+        print("o saudade")
+        
+     elif "codico=vesgo" in mensagem:
+         print("ok")
+         print("
+        
+        
+    else:
+        print(" meu criador não programou isso :( ")
+# ... depois envie o arquivo saida_console.txt no WhatsApp
+#
